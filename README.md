@@ -17,7 +17,7 @@ Check out this quick demo to see Iron-web-Tools (SOON)!
 <h2>🛠️ Usage</h2>
 To get started with Iron-web-Tools, follow these simple steps:
 
-1. Download the lastest version <li><a rel="noopener" target="_new" href="https://github.com/ironweb10/Iron-web-Tools">Here</a></li>
+1. Download the lastest version <a rel="noopener" target="_new" href="https://github.com/ironweb10/Iron-web-Tools">Here</a>
 
 2. Run it
 
