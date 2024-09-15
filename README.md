@@ -28,7 +28,7 @@ To get started with Iron-web-Tools, follow these simple steps:
 <h2>📜 License</h2>
 Iron-web-Tools was made by iron web10.
 
-<h2>#🤝 Acknowledgements</h2>
+<h2>🤝 Acknowledgements</h2>
 We'd like to thank the following for their support and contributions:
 
 <li><a rel="noopener" target="_new" href="https://github.com/ironweb10">iron web10</a></li>
