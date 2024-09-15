@@ -8,7 +8,7 @@
 <h2>📸 Screenshots</h2>
 Example of the dashboard view
 
-Configuration and settings screen
+![image](example.png)
 
 <h2>🎥 Demo</h2>
 Check out this quick demo to see Iron-web-Tools (SOON)!
