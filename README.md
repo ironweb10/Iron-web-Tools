@@ -21,7 +21,7 @@ To get started with Iron-web-Tools, follow these simple steps:
 
 2. Run it
 
-3. Enter your activation key (DM Me for <a rel="noopener" target="_new" href="https://dsc.gg/iron-web10">Free Key</a>
+3. Enter your activation key (DM Me for <a rel="noopener" target="_new" href="https://dsc.gg/iron-web10">Free Key</a>)
 
 4. Enjoy it
 
